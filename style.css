@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-image: url(img/bg.jpg);
+}
+.mainCalculator{
+    margin-top: 50px;
+    
+}
+
+#input-box{
+    height: 40px;
+    width: 246px;
+    border: 2px solid blue;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+}
+button{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    margin: 5px;
+}
+.vip-btn{
+    height: 50px;
+    width: 112px;
+    font-size: 15px;
+}
+p{
+    font-size: 30px;
+    width: 205px;
+    background-color:aliceblue ;
+}
